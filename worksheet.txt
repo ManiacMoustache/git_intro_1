@@ -47,16 +47,7 @@ Answer the question below in the space provided, then SAVE THE FILE.
    ANSWER 2: 
 
 
-Repeat the process from above, making sure to ADD A TITLE AND DESCRIPTION
-explaining the changes that were made.  (Being descriptive here saves
-a lot of time later on, so make it a habit!)
-
-After you've done that, look at the web browser view of Git.  Click on the "Code"
-tab to see the overall repository, then click on "Commits" to see the history of
-of commits that have been made.
-
-Talk with your teammates about why this could be helpful and why including messages
-with commits is important.
+have a team member expain everything to you.
 
 *****************************************************
 
